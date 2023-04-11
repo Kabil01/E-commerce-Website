@@ -1,0 +1,72 @@
+body{
+    background-image:url("../img/bgi.jpg");
+    background-size:cover;
+    background-position: center;
+}
+.login-box{
+    max-width:600px;
+    float:none;
+    margin:100px auto;
+}
+.login{
+    background-color: #cdebbc;
+    margin:auto;
+    text-align: center;
+    font-size: 1.4em;
+}
+.form-group{
+    background-color:transparent !important;
+    padding:2px;
+    font-size: 1.3em;
+}
+a.reg{
+    text-decoration: none;
+    color: blue !important;
+    margin-top:-200px;
+}
+.head{
+    color: orangered;
+    font-size: 1.4em; 
+}
+.logo{
+    width:150px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+.btn-primary{
+    padding:2px;
+    font-size: 1em;
+    text-align: center;
+}
+.form-control{
+    background-color:transparent !important;
+    height:25px;
+    font-size: 20px;
+}
+.ji{
+    color:red;
+    font-size: 15px;
+}
+.hint{
+    font-size:16px;
+    color: blueviolet;
+}
+input:hover{
+    background: white;
+    cursor: pointer;
+    border:5px groove orange;
+    color: darkorange;
+}
+button:hover{
+    border:5px solid blue;
+}
+#ul a:hover{
+    color: darkred;
+    text-decoration: underline;
+}
+.re{
+    color:darkgreen;
+    font-weight: bold;
+    font-size: 16px;
+}
